@@ -1,3 +1,3 @@
 # labinternetofthings
 
-This repository contains my final project for the Laboratorio IOT course.
+This repository contains my “Laboratorio Sistemi IOT” course final project
